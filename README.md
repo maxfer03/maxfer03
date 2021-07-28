@@ -1,10 +1,13 @@
-### Hi there 👋
+## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+
+## Krishnakanth Alagiri (Him/He) 🌻
+- I’m a Fullstack Web developer studying at the [Henry Bootcamp](https://www.linkedin.com/in/maximo-fernandez-arenas-fullstack/) (one month away from completing it! 
+- 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/maximo-fernandez-arenas-fullstack/) or mail (sandsferdinand@gmail.com)
+- Currently working on my last (and biggest) assignment on the bootcamp, and digital Portfolio on the side.
 
 [![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxfer03)](https://github.com/maxfer03/github-readme-stats)
 
-### Find me at:
-
-<linkedin-link href="https://www.linkedin.com/in/maximo-fernandez-arenas-fullstack/" height="15px"></linkedin-link>
+##Tech Stack
 
 
 
