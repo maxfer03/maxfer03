@@ -1,7 +1,7 @@
-## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
+## ```Hello World!``` <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 <div>
   <ul>
-    <li> I’m Max, Fullstack Web developer studying at the [Henry Bootcamp](https://www.linkedin.com/in/maximo-fernandez-arenas-fullstack/) (one month away from completing it!) 
+    <li> I’m Max, Fullstack Web developer studying at the Henry Bootcamp (one month away from completing it!) 
     <li> Currently working on my last (and biggest) assignment on the bootcamp, and digital Portfolio on the side. 
     <li> Very interested in 3D rendering and physics simulation, looking forward to dive into them once I get bored of web dev (spoiler: that  will take some time for sure) 
     <li> When not programming, you can find me playing the guitar or some videogames. Or programming anyways.
@@ -31,7 +31,7 @@
 - [WhatsApp](https://wa.me/qr/SLVIUEZVXGJFP1) or [Telegram](https://t.me/maxfer03)
 - Mail: sandsferdinand@gmail.com
   
-<hr>
+
 
 [![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxfer03)](https://github.com/maxfer03/github-readme-stats)
 
