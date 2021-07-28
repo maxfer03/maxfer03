@@ -2,17 +2,17 @@
 - I’m Max, Fullstack Web developer studying at the [Henry Bootcamp](https://www.linkedin.com/in/maximo-fernandez-arenas-fullstack/) (one month away from completing it! 
 - 📫 **How to reach me**: [LinkedIn](https://www.linkedin.com/in/maximo-fernandez-arenas-fullstack/) or mail (sandsferdinand@gmail.com)
 - Currently working on my last (and biggest) assignment on the bootcamp, and digital Portfolio on the side.
-<hr>
+
+
 ##Tech Stack
 
 
-<hr>
+
 ## How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/maximo-fernandez-arenas-fullstack/)
 - [WhatsApp](https://wa.me/qr/SLVIUEZVXGJFP1) or [Telegram](https://t.me/maxfer03)
 - Mail: sandsferdinand@gmail.com
 
-<hr>
 [![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxfer03)](https://github.com/maxfer03/github-readme-stats)
 
 <!--
