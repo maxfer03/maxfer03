@@ -1,6 +1,7 @@
 ## Hello World! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 - I’m Max, Fullstack Web developer studying at the [Henry Bootcamp](https://www.linkedin.com/in/maximo-fernandez-arenas-fullstack/) (one month away from completing it!)
 - Currently working on my last (and biggest) assignment on the bootcamp, and digital Portfolio on the side.
+- Very interested in 3D rendering, looking forward to dive into it once I get bored of web dev (spoiler: that will take some time for sure)
 - When not programming, you can find me playing the guitar or some videogames. Or programming anyways.
 
 
