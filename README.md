@@ -30,6 +30,8 @@
 - [LinkedIn](https://www.linkedin.com/in/maximo-fernandez-arenas-fullstack/)
 - [WhatsApp](https://wa.me/qr/SLVIUEZVXGJFP1) or [Telegram](https://t.me/maxfer03)
 - Mail: sandsferdinand@gmail.com
+  
+<hr>
 
 [![Max's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxfer03)](https://github.com/maxfer03/github-readme-stats)
 
