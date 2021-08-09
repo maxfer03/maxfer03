@@ -1,6 +1,6 @@
 ## ```Hello World!``` <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px">
 - I’m Max, Fullstack Web developer studying at the Henry Bootcamp (one month away from completing it!) 
-- Currently working on Wipit Board, a virtual backlog for pair programming.
+- Currently working in a team developing Wipit Board, a virtual backlog for pair programming.
 - Very interested in 3D rendering and physics simulation, looking forward to dive into them once I get bored of web dev (spoiler: that  will take some time for sure) 
 - When not programming, you can find me playing the guitar or some videogames. Or programming anyways.
 
