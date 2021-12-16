@@ -19,7 +19,7 @@
 
 ## 📧 How to reach me:
 - [LinkedIn](https://www.linkedin.com/in/maximo-fernandez-arenas-fullstack/)
-- [WhatsApp](https://wa.me/qr/SLVIUEZVXGJFP1) or [Telegram](https://t.me/maxfer03)
+- [Polywork](https://www.polywork.com/sandsfer)
 - Mail: sandsferdinand@gmail.com
   
 
