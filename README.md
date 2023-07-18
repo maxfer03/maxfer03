@@ -10,10 +10,8 @@
 <a href="https://python.org/" title="Python"><img src="https://github.com/get-icon/geticon/raw/master/icons/python.svg" alt="Python" width="50px" height="50px"></a>
 <a href="https://vuejs.org/" title="Vue"><img src="https://github.com/get-icon/geticon/raw/master/icons/vue.svg" alt="React" width="50px" height="50px"></a>
 <a href="https://reactjs.org/" title="React"><img src="https://github.com/get-icon/geticon/raw/master/icons/react.svg" alt="Vue" width="50px" height="50px"></a>
-<a href="https://redux.js.org/" title="Redux"><img src="https://github.com/get-icon/geticon/raw/master/icons/redux.svg" alt="Redux" width="50px" height="50px"></a>
 <a href="https://nodejs.org/" title="Node.js"><img src="https://github.com/get-icon/geticon/raw/master/icons/nodejs-icon.svg" alt="Node.js" width="50px" height="50px"></a>
-<a href="https://expressjs.com/" title="Express"><img src="https://github.com/get-icon/geticon/raw/master/icons/express.svg" alt="Express" width="50px" height="50px"></a>
-<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://github.com/get-icon/geticon/raw/master/icons/postgresql.svg" alt="PostgreSQL" width="50px" height="50px"></a>
+<a href="https://www.postgresql.org/" title="PostgreSQL"><img src="https://raw.githubusercontent.com/get-icon/geticon/master/icons/aws.svg" alt="AWS" width="50px" height="50px"></a>
 
 
 
